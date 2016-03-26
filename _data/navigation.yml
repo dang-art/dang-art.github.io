@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Collections
+  url: /collections/
+  excerpt: "My painting collections."
+  image: site-logo.png
+
+- title: About
+  url: /about/
+  excerpt: # "About me."
+  image: bio-photo.png
+
+# - title: Contact
+#   url: /contact/
+#   excerpt:
+#   image: email.png

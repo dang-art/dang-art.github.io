@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Collections
+  url: /collections/
+
+- title: About
+  url: /about/
+
+# - title: Contact
+#   url: /contact/

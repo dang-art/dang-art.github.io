@@ -1,0 +1,53 @@
+# Site wide configuration
+
+title: Dang Canh - Fine Art
+description: "Fine Art Gallery"
+logo: site-logo.png
+teaser: 400x250.gif
+locale: en_US
+url: //dang-art.github.io # //localhost:4000
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+
+# Octopress configuration
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Dang Canh
+  web: http://dang-art.com
+  email: dangcanh.artist@gmail.com
+  twitter: #
+  bio: "Artist"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: #
+    ad-client: #
+    ad-slot: #
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
