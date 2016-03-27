@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Dang Canh - Fine Art
+title: Artist Dang Canh
 description: "Fine Art Gallery"
 logo: site-logo.png
 teaser: 400x250.gif
 locale: en_US
-url: //dang-art.github.io # //localhost:4000
+url: //dang-art.github.io # //dang-art.github.io # //localhost:4000
 
 # Jekyll configuration
 
