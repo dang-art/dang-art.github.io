@@ -5,7 +5,7 @@ description: "Fine Art Gallery"
 logo: site-logo.png
 teaser: 400x250.gif
 locale: en_US
-url: http://dang-art.com # //dang-art.github.io # //localhost:4000
+url: //dang-art.com # //dang-art.github.io # //localhost:4000
 
 # Jekyll configuration
 
