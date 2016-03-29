@@ -1,5 +1,6 @@
 ---
 layout: about
+permalink: /about_en.html
 title: "About"
 date: # 2016-03-25
 modified: # 2016-03-25
