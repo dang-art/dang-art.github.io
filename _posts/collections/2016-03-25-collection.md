@@ -102,3 +102,11 @@ image:
 <figure>
 	<img src="/painting_img/011.DIEP KHUC NGAY LAI NGAY 130130.jpg" alt="image"></a>
 </figure>
+
+---
+
+#### World of innermost feelings
+
+<figure>
+	<img src="/painting_img/012.THE GIOI NOI TAM.jpg" alt="image"></a>
+</figure>
