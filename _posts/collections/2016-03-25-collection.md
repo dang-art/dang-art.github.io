@@ -94,3 +94,11 @@ image:
 <figure>
 	<img src="/painting_img/070. Toi da la ai.jpg" alt="image"></a>
 </figure>
+
+---
+
+#### Day by day
+
+<figure>
+	<img src="/painting_img/011.DIEP KHUC NGAY LAI NGAY 130130.jpg" alt="image"></a>
+</figure>
