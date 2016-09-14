@@ -2,7 +2,7 @@
 layout: media
 title: "Collection"
 excerpt: # "Collection"
-categories: collections
+categories: gallery
 tags: [philosopher, painting]
 ads: false
 share: false

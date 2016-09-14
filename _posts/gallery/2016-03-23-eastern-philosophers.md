@@ -2,7 +2,7 @@
 layout: media
 title: "Eastern Philosophers"
 excerpt: # "Eastern Philosophers."
-categories: collections
+categories: gallery
 tags: [philosopher, painting]
 ads: false
 share: false
