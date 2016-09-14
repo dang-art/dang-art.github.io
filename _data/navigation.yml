@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Collections
-  url: /collections/
+- title: Gallery
+  url: /gallery/
   excerpt: "My painting collections."
   image: site-logo.png
 
