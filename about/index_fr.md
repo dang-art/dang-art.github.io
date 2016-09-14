@@ -47,7 +47,7 @@ Exposition personnelle, Galerie d’art Ho Chi Minh ville, Vietnam.
 
 DANG Canh utilise toutes ses compétences et ses connaissances en philosophie pour peindre ses œuvres et exprimer ses réflexions, sa pensée autour de la vie et des hommes, du temps et des moments. Chaque tableau est un regard.
 
-Un travail mêlant des abstractions géométriques et la technique autour de l’huile, du sable, de la colle et de l’acrylique. La troisième dimension dans les tableaux  est la dimension temporelle, la profondeur reflète le temps orienté vers le passé ou la future.
+Un travail mêlant des abstractions géométriques et la technique autour de l’huile, du sable, de la colle et de l’acrylique. La troisième dimension dans les tableaux  est la dimension temporelle, la profondeur reflète le temps orienté vers le passé ou le futur.
 
 Symboles géométriques :
 
