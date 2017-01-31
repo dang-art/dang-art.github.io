@@ -20,6 +20,13 @@ Après des années axées sur les portraits et les paysages, il s’oriente, dep
 DANG Canh est membre de l’Association des artistes vietnamiens de Ho Chi Minh ville, Vietnam.
 
 ### Expositions
+•	2017 : Exposition collective, Grand-Palais, Paris, Pháp.
+
+•	2016 : Exposition collective, Cathérale Da Minh, Ho Chi Minh ville, Vietnam.
+
+•	2016 : Exposition collective, Cannaes, Pháp.
+
+•	2016 : Exposition collective, Versailles, Pháp.
 
 - 2012 -
 Exposition collective, Cathérale Da Minh, Ho Chi Minh ville, Vietnam.
