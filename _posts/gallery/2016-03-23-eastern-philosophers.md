@@ -16,7 +16,7 @@ image:
 #### <a href="https://en.wikipedia.org/wiki/Confucius">Conficius</a>
 
 <figure>
-	<img src="/painting_img/039.KHONG TU.jpg" alt="image"></a>
+	<img src="/painting_img/039.KHONG TU.jpg" alt="image">
     <!-- <figcaption>Conficius</figcaption> -->
 </figure>
 
@@ -25,7 +25,7 @@ image:
 #### <a href="https://en.wikipedia.org/wiki/Confucius">Conficius</a>
 
 <figure>
-	<img src="/painting_img/Khong Tu 90 90.jpg" alt="image"></a>
+	<img src="/painting_img/Khong Tu 90 90.jpg" alt="image">
 </figure>
 
 ---
@@ -33,7 +33,7 @@ image:
 #### <a href="https://en.wikipedia.org/wiki/Laozi">Laozi</a>
 
 <figure>
-	<img src="/painting_img/040.LAO TU.jpg" alt="image"></a>
+	<img src="/painting_img/040.LAO TU.jpg" alt="image">
 </figure>
 
 ---
@@ -41,5 +41,5 @@ image:
 #### <a href="https://en.wikipedia.org/wiki/Laozi">Laozi</a>
 
 <figure>
-	<img src="/painting_img/Lao Tu 90 90.jpg" alt="image"></a>
+	<img src="/painting_img/Lao Tu 90 90.jpg" alt="image">
 </figure>
