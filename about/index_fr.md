@@ -24,7 +24,7 @@ DANG Canh est membre de l’Association des artistes vietnamiens de Ho Chi Minh 
 
 •	2016 : Exposition collective, Cathérale Da Minh, Ho Chi Minh ville, Vietnam.
 
-•	2016 : Exposition collective, Cannaes, Pháp.
+•	2016 : Exposition collective, Cannes, Pháp.
 
 •	2016 : Exposition collective, Versailles, Pháp.
 
