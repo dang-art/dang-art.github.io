@@ -21,8 +21,11 @@ Dang Canh is a member of "The Vietnam Fine Art Association" in Ho Chi Minh City,
 
 ### Exhibitions
 •	2017 : Group exhibition, Grand-Palais, Paris, Pháp.
+
 •	2016 : Group exhibition, Da Minh Cathedral, Ho Chi Minh city, Vietnam.
+
 •	2016 : Group exhibition, Cannaes, Pháp.
+
 •	2016 : Group exhibition, Versailles, Pháp.
 
 -	2012  -
