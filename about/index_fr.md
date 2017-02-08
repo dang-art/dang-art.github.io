@@ -13,7 +13,7 @@ share: false
 ads: false
 ---
 
-DANG Canh est un artiste peintre. Il ressent dès son plus jeune âge un attrait pour l’art et consacre toute sa vie à sa passion pour la peinture.
+DANG Canh est un artiste peintre. Il ressent dès son plus jeune âge un attrait pour l'art et consacre toute sa vie à sa passion pour la peinture.
 
 Après des années axées sur les portraits et les paysages, il s’oriente, depuis 1994, vers la création de son propre style. Il utilise des symboles pour transposer sur la toile l’essence de ses réflexions autour de la vie et des hommes (la vie éphémère, le bonheur et la souffrance du corps et de l’esprit, etc).
 
@@ -30,7 +30,7 @@ Exposition collective, Cathérale Da Minh, Ho Chi Minh ville, Vietnam.
 Exposition internationale "Artistes du Monde", Cannes , France
 
 - 09/2016 -
-Exposition collective, Versailles, France.
+Exposition Art Contemporain, Versailles, France.
 
 - 2012 -
 Exposition collective, Cathérale Da Minh, Ho Chi Minh ville, Vietnam.
