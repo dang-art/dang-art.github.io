@@ -20,13 +20,17 @@ Sau nhiều năm vẽ hiện thực chân dung, phong cảnh, ông vẽ theo l�
 Đặng Cánh là thành viên Hội Mĩ Thuật Thành Phố Hồ Chí Minh, Việt Nam.
 
 ### Các cuộc triễn lãm
--	2017 : Triển lãm tại Grand-Palais, Paris, Pháp.
+- 02/2017 -
+Triễn lãm "Art Capital", Grand-Palais, Paris, Pháp.
 
--	2016 : Triển lãm từ thiện tại nhà thờ Đa Minh, Hồ chí Minh.
+- 12/2016 -
+Triễn lãm từ thiện , Nhà thờ Đa Minh, Tp Hồ Chí Minh, Việt Nam.
 
--	2016 : Triển lãm tại Cannaes, Pháp.
+- 09/2016 -
+Triễn lãm quốc tế "Artistes du Monde" dưới sự tài trợ của Maria Picasso, Cannes, Pháp.
 
--	2016 : Triển lãm tại Versailles, Pháp.
+- 09/2016 -
+Triễn lãm Nghệ thuật đương đại, Versailles, Pháp.
 
 - 2012 -
 Triễn lãm từ thiện, Nhà thờ Đa Minh, tp Hồ Chí Minh, Việt Nam.
