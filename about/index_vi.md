@@ -24,7 +24,7 @@ Sau nhiều năm vẽ hiện thực chân dung, phong cảnh, ông vẽ theo l�
 Triễn lãm "Art Capital", Grand-Palais, Paris, Pháp.
 
 - 12/2016 -
-Triễn lãm từ thiện , Nhà thờ Đa Minh, Tp Hồ Chí Minh, Việt Nam.
+Triễn lãm từ thiện, Nhà thờ Đa Minh, Tp Hồ Chí Minh, Việt Nam.
 
 - 09/2016 -
 Triễn lãm quốc tế "Artistes du Monde" dưới sự tài trợ của Maria Picasso, Cannes, Pháp.
