@@ -34,16 +34,20 @@ Exhibition of Contemporain Art, Versailles, France.
 
 -	2012  -
 Personal exhibition, Da Minh Cathedral, Ho Chi Minh city, Vietnam.
+
 -	2009  -
 Personal exhibition, Art Museum of Ho Chi Minh City, Vietnam.
-Personal exhibition, Sai Gon Church, Vietnam
--	2000, 2001, 2002,
-2003, 2008, 2009 -
+Personal exhibition, Sai Gon Church, Vietnam.
+
+-	2000, 2001, 2002, 2003, 2008, 2009 -
 Contemporary art workshop and group exhibition, Art Gallery of Ho Chi Minh City, Vietnam.
+
 -	2002 -
 Group exhibition, Da Nang, Vietnam.
+
 -	1996 -
 Personal exhibition, Art Gallery of Ho Chi Minh City, Vietnam.
+
 -	1993 -
 Personal exhibition, Art Gallery of Ho Chi Minh City, Vietnam.
 
